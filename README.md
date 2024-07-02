@@ -1,1 +1,1 @@
-# Harinandkumar-Interactive-Color-Theme-Switcher
+# Interactive-Color-Theme-Switcher
